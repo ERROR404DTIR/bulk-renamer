@@ -1,5 +1,7 @@
 # bulk-renamer
 
+<p align="center"><img src="assets/readme-banner.svg" alt="Animated Bulk Renamer banner" width="100%"></p>
+
 Safe, dry-run-first CLI for bulk renaming files. Zero dependencies, pure Python 3.8+.
 
 ## Features
